@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    int a=5;
+    int *puntero=&a;
+    printf("Hello World");
+    
+    printf("valor de a %d",a);
+
+    return 0;
+}
